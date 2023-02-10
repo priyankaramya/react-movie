@@ -83,7 +83,7 @@ class MoviesInsert extends Component {
         const { name, rating, time } = this.state
         return (
             <Wrapper>
-                <Title>Create Movie</Title>
+                <Title> Movie Title</Title>
 
                 <Label>Name: </Label>
                 <InputText
